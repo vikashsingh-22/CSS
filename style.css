@@ -1,0 +1,17 @@
+#id1{
+    color:green;
+}
+
+.contant{
+    height: 200px;
+    width:200px;
+    border:1px solid black;
+    padding:50px;
+    margin:20px;
+    border-radius:50%;
+    text-align:center;
+}
+
+.para{
+    color:greenyellow;
+}
