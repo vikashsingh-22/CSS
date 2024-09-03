@@ -1,0 +1,14 @@
+.container{
+    display:flex;
+    justify-content:center;
+    align-items: end;
+    height:100vh;
+}
+
+.box{
+    height:200px;
+    width: 200px;
+    margin:10px;
+    background-color: beige;
+    border:2px solid black;
+}
