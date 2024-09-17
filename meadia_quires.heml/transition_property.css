@@ -1,0 +1,20 @@
+.box{
+    height:200px;
+    width:200px;
+    border:2px solid black;
+    background-color: red;
+
+    /* all tarsiton property */
+    /* transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 3s;
+    transition-delay: 3ms; */
+
+    transition:2s all ease 1s;
+}
+
+
+
+.box:hover{
+    background-color: yellow;
+}
