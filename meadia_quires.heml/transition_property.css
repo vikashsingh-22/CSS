@@ -11,6 +11,9 @@
     transition-delay: 3ms; */
 
     transition:2s all ease 1s;
+    transform:rotate(30deg);
+    /* transform: translateX(100px);
+    transform:translateY(100px); */
 }
 
 
