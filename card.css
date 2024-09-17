@@ -1,0 +1,63 @@
+.header{
+    height:80px;
+    background-color: gray;
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+
+}
+
+.logo h1{
+    color:white;
+    cursor:pointer;
+}
+
+.menu_items{
+    display:flex;
+    list-style:none;
+    gap:20px;
+    color: white;
+    font-size: 23px;
+
+
+}
+
+.search_bar input{
+    outline:none;
+    padding:4px 10px;
+    font-size: 18px;
+    border-radius:4px;
+}
+
+.menu_items{
+    cursor:pointer;
+   
+}
+
+
+.hero_section{
+    display:flex;
+    width:100%;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 40px;
+}
+
+.text_content h1{
+    font-size:40px;
+}
+
+.text_content p{
+    color:gray;
+    font-size: 14px;
+}
+
+.box{
+    height:400px;
+    width:400px;
+    background-color: brown;
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+}
